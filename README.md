@@ -1,6 +1,8 @@
 # TicTacToe
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.0.
+It is a game that we used to play in our school time nothing fency 
+
 
 ## Run npm install for node_modules
 
@@ -12,6 +14,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 5) @fortawesome/angular-fontawesome : Angular component for Font Awesome 5
 6) Angular Switch case
 7) *ngFor
+8) Learnt some new styling case of css and some html
 
 ## Development server
 
