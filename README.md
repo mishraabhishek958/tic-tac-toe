@@ -1,8 +1,17 @@
-# Run npm install for node_modules
-
 # TicTacToe
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.0.
+
+## Run npm install for node_modules
+
+## Learning from this project
+1) Components and their Interaction using @Input and @Output
+2) Event Binding and property binding
+3) ngx-toastr: It is a JavaScript library which is used to create a notification popup.
+4) Folder is called loosely module but module has app.module.ts file
+5) @fortawesome/angular-fontawesome : Angular component for Font Awesome 5
+6) Angular Switch case
+7) *ngFor
 
 ## Development server
 
